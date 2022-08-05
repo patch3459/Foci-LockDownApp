@@ -1,0 +1,55 @@
+Ok whenever we do something or push something you have to document what you did (not down to the line but enough for us to understand). Just follow what I do.
+
+Patrick, 12/19/21 12:07
+- Built project, added app bar just so we can make sure our VS Code and all that is working
+- Also added logs.txt
+
+Patrick, 12/19/21 12:45
+- Just writing stuff to see how it looks nothing major
+
+Patrick 12/21/21 13:10
+- Adding Button Card class for introbuttons
+
+Patrick 12/21/21 15:49
+- Working more on Button Card class
+
+Patrick 12/24/21 10:09
+- Moved signinbutton to its own file
+- fixed pubspec.yaml errors
+
+Patrick 12/24/21 11:53
+- Finalized sign in button
+
+Patrick 12/24/21 13:37
+- Adding items for firebase in pubspec and whatnots
+- Also starting to work on the athentication
+
+Patrick 12/25/21 17:56
+ - added in the googleSignIn, major bug right now because it isn't complete
+ - To be added: need to add in the navigator because it has nothing to do when it's page is done.
+
+ Patrick and Osniel 12/28/21 19:00
+ - added in navigator
+ - to fix; google sign in
+
+Patrick and Osniel 12/29/21 09:30
+ - fixed google sign in; don't know how I did it.
+ 
+ Patrick 12/29/2021 13:55
+ - finalizing fixes to the auth.dart
+ - Fixing navigator
+
+ Patrick 1/7/22 16:06
+
+ - added a lot of stuff including working on the requests
+
+ Patrick 1/11/22 11:31
+
+ - Adding more pathweays
+
+ Patrick 1/12/22
+  -implementing method channels
+  - needs to work on null safety
+  Osniel and Pat 1/25/22 7:06
+  -Changed Button layout/color
+  - Realigned Buttons
